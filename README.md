@@ -10,4 +10,3 @@ To be completed.
 * [Code Linters](code_linters.md)
 * [Feature testing](feature-testing.md)
 * [Unit testing](unit-testing.md)
->>>>>>> bc382d3... Add unit testing page
