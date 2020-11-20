@@ -8,3 +8,4 @@ To be completed.
 * [An example page](example.md)
 * [Testing](testing.md)
 * [Code Linters](code_linters.md)
+* [Text Editors & IDEs](text_editors_ides.md)
