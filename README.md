@@ -10,3 +10,4 @@ To be completed.
 * [Code Linters](code_linters.md)
 * [Feature testing](feature-testing.md)
 * [Unit testing](unit-testing.md)
+* [Text Editors & IDEs](text-editors-ides.md)
