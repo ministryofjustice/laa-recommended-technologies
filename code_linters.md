@@ -22,6 +22,6 @@
 
 | Name | Status | Usecase  | Notes  |
 |---|---|---|---|
-| [Flak8](https://flake8.pycqa.org/en/latest/) | Recommended | Default choice | Wrapper which verifies pep8, pyflakes and circular complexity
-| Tech 2 | Limited use | Legacy applications only | See details|
+| [Flake8](https://flake8.pycqa.org/en/latest/) | Recommended | Default choice | Wrapper which verifies pep8, pyflakes and circular complexity
+
 
