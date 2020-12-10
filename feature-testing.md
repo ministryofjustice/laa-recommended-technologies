@@ -14,4 +14,4 @@ This page lists feature testing frameworks that are recommended for use with the
 
 | Name | Status | Usecase  | Notes  |
 |---|---|---|---|
-|  |  |  |  |
+| Cucumber | Recommended | Oracle Application Framework (OAF) pages in E-Business Suite base applications (e.g. CWA - https://github.com/ministryofjustice/laa-cwa-feature-tests) | The use of Cucumber at the moment in the LAA does not cover testing Oracle Forms components in E-Business Suite. |
