@@ -8,7 +8,7 @@ This page lists feature testing frameworks that are recommended for use with the
 |---|---|---|---|
 | Behave |  |  |  |
 | Cucumber |  |  |  |
-| Cypress |  |  |  |
+| Cypress | Recommended | Default choice | Fast, easy and reliable testing for anything that runs in a browser. Existing apps may have other technologies, plan and migrate when possible. |
 
 ## Oracle
 

@@ -27,3 +27,11 @@ This page lists unit testing frameworks that are recommended for use with the ma
 | Name | Status | Usecase  | Notes  |
 |---|---|---|---|
 |  |  |  |  |
+
+## Javascript
+
+| Name | Status | Usecase  | Notes  |
+|---|---|---|---|
+| Cypress | Recommended | Default choice | Fast, easy and reliable testing. |
+| Jasmine | Limited use |  | Developers should aim to use Cypress on new applications and Jasmine for consistency with existing applications as it is a valid alternative. |
+| Jest | Limited use |  | Developers should aim to use Cypress on new applications and Jest for consistency with existing applications as it is a valid alternative. |
