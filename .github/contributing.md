@@ -34,8 +34,8 @@ This space is a work environment, so we ask that you treat everybody respectfull
 - For this repository, creating a branch directly from the `main` branch is preferred. 
 - Please give your branch a short and meaningful name that reflects the change you are making. For example `update-readme-with-build-badge` for a change that adds a build badge to the README.md
 
-## Raising a pull request
+### Raising a pull request
 
 - Fill in all the applicable information requested in the pull request.
-- Notify on the `` Slack chanel on the MOJ Digital & Technology Slack that you have raised a pull request.
-- After __ approvals, you can merge your changes into the main branch.
+- Notify on the `#laa-crowd-sourced-tech-guidance` Slack chanel on the MOJ Digital & Technology Slack that you have raised a pull request.
+- After 1 approval from one of the Codeowners, you can merge your changes into the main branch.
