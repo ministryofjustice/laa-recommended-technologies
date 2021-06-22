@@ -17,3 +17,11 @@
 | Name | Status | Usecase  | Notes  |
 |---|---|---|---|
 | Stylelint | Recommended | Default choice | A mighty, modern linter that helps you avoid errors and enforce conventions in your styles, https://stylelint.io/. A version, which should be used, has been configured to comply with GDS style guides: https://github.com/alphagov/stylelint-config-gds |
+
+## Python
+
+| Name | Status | Usecase  | Notes  |
+|---|---|---|---|
+| [Flake8](https://flake8.pycqa.org/en/latest/) | Recommended | Default choice | Wrapper which verifies pep8, pyflakes and circular complexity
+
+
