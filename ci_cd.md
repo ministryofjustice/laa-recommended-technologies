@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Continuous Integration 
+The purpose of this document is outline the use cases for CI/CD tools at LAA Digital and recommend appropriate technologies.
 
 ## Motivation
 
@@ -32,6 +32,3 @@ The motivation for CI/CD can't be better summed up by [Thoughtworks](https://www
 | ------------- | ------------- | --- | --- |
 | Circle CI | Recommended | Default choice. Good for all new projects. Does CI and deployments. Maintained by [MoJ Operations Engineering](https://operations-engineering.service.justice.gov.uk/documentation/services.html#our-services). | [Circle CI product page](https://circleci.com/product/) |
 | AWS CodeDeploy  | Limited use  |  |  |
-
-
-
